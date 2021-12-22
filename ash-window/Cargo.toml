@@ -22,7 +22,3 @@ raw-window-metal = "0.1"
 
 [dev-dependencies]
 winit = "0.19.4"
-
-[[example]]
-name = "winit"
-required-features = ["ash/linked"]
